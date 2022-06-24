@@ -1,0 +1,21 @@
+[action]
+nähert sich         # Laufen
+zaubert _t_ auf _2_ # Buffs, Debuffs, Zauber (Buff, Debuff, Rundenschaden, ) Bogen(Rundenschaden, Buffs)
+wirkt auf           # Rundenschaden(Range, Zauber) Tick
+greift _2_ an       # Direktangriff (NK, Range, Zauber)
+wechselt            # Wechsel NK/KF
+
+[result]
+verursacht # Schaden
+kein Schaden
+heilt # LP
+erfolgreich
+misslingt
+weicht aus
+verfehlt
+
+[multiplier]
+krit. Treffer
+exzellenter Treffer
+# Schaden pariert
+# Schaden geblockt

@@ -1,39 +1,26 @@
 Gelände
-Observatorium
+Gruppe
 Übersicht
-Karte
-Stadt verlassen
-Stadt
-Handwerk
-Heiler
-Wachhaus
-Taverne
-Akademie
-Tempel
-Wirtschaft
-Auktionshaus
-Marktplatz
-Bank
-Tauschhandel
-Unterhaltung
-Duellplatz
-(0)
-Ergebnisse
-Verwaltung
-Verwaltung
-Infrastruktur
-Lager
-Protokoll
+Chat
+Umgebung
+Begegnungen
+Karte / Aufträge
+Meldungen
+Umgebung
+Allgemeines
+Einstellungen
+Gruppenwerte
+Diplomatie
 Zurück
 Weltenportal
 Avatar
-Nerix Balbarosch
-Zwerg
-Level 38
-LP: 3044 / 3044
-AP: 125 / 750
-EXP: 719301
-8038 Gold
+Irodin
+Halbelf
+Level 5
+LP: 11 / 335
+AP: 708 / 750
+EXP: 13382
+150482 Gold
 Charakter
 Eigenschaften
 Inventar
@@ -61,856 +48,829 @@ Darstellung
 Protokoll
 Führung
 
- 
-Ikandur, Noch 42 Tage und 00:54:43 bis zur Abschaltung, (17:05:16)
+
+Testserver, Noch 20 Tage und 23:44:48 bis zur Abschaltung, (18:15:11)
 Kampfbericht
-Ihr arbeitet zurzeit. (Observatorium: Bergwerk V)
-
-Kampfinformationen [Kampfbeginn: 2021-12-03 09:00:22]  	
-
+Kampfinformationen [Kampfbeginn: 2022-04-10 14:16:33]
 Alle Kampfrunden anzeigen
 Runde 1	Runde 2	Runde 3	Runde 4	Runde 5	Runde 6	Runde 7	Runde 8
 Runde 9	Runde 10	Runde 11	Runde 12	Runde 13	Runde 14	Runde 15	Runde 16
-Runde 17	Runde 18	Runde 19	Runde 20	Runde 21	 	 	 
+Runde 17	Runde 18	Runde 19	Runde 20	Runde 21
 
 Verteidiger	Status	LP
-[?] Horras-Attentäter #1	Sieger	51%
-[?] Horras-Attentäter #2	Sieger	42%
-[?] Horras-Späher #1	kampfunfähig	0%
-[?] Horras-Späher #2	Sieger	21%
-  
+[?] Angrosch	Sieger	58%
+[?] Celeste	kampfunfähig	0%
+[?] Emila Kharuso	Sieger	92%
+[?] Grumpel	kampfunfähig	0%
+[?] Irodin	Sieger	100%
+[?] Lyra Kharuso	Sieger	98%
+[?] Relokas	Sieger	100%
+[?] Schabra	Sieger	100%
+
 Angreifer	Status	LP
-[?] San	kampfunfähig	0%
-[?] Caera	kampfunfähig	0%
-[?] Klaehan	kampfunfähig	0%
-[?] Monochrom	kampfunfähig	0%
-[?] Nerix Balbarosch	kampfunfähig	0%
-[?] Ajihad	kampfunfähig	0%
- 
+[?] Vampir #1	kampfunfähig	0%
+[?] Vampirfledermaus #1	kampfunfähig	0%
+[?] Vampirfledermaus #2	kampfunfähig	0%
+
+
+Sieger	Beuteverteilung
+Angrosch	233 Gold, 1 Todesstaub, 1 Schattenstaub, 1 Mondstaub
+Celeste	233 Gold, 1 Mondstaub
+Emila Kharuso	233 Gold, 1 Schattenstaub, 1 Mondstaub
+Grumpel	233 Gold, 1 Schattenstaub, 1 Mondstaub
+Irodin	233 Gold, 1 Todesstaub, 1 Schattenstaub
+Lyra Kharuso	233 Gold, 1 Todesstaub, 1 Schattenstaub
+Relokas	233 Gold, 1 Todesstaub, 1 Schattenstaub
+Schabra	233 Gold, 1 Todesstaub, 1 Schattenstaub, 1 Mondstaub
 Kampfereignisse (Log)
 Runde 1
-0:00 San zaubert [Granithaut] auf Caera: erfolgreich.
-0:00 San zaubert [Granithaut] auf San: erfolgreich.
-0:00 San zaubert [Granithaut] auf Klaehan: erfolgreich.
-0:00 San zaubert [Granithaut] auf Monochrom: erfolgreich.
-0:00 San zaubert [Granithaut] auf Nerix Balbarosch: erfolgreich.
-0:00 San zaubert [Granithaut] auf Ajihad: verfehlt.
-0:00 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 103 Schaden.
-0:00 Klaehan [Diamant-Armbrust] greift Horras-Späher #2 an: weicht aus.
-0:00 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #1: erfolgreich.
-0:00 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 57 Schaden.
-0:00 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #2: erfolgreich.
-0:00 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 75 Schaden.
-0:00 Nerix Balbarosch nähert sich Horras-Späher #1.
-0:00 Ajihad [Ballista] greift Horras-Attentäter #2 an: verursacht 57 Schaden.
-0:00 Horras-Attentäter #1 nähert sich Caera.
-0:00 Horras-Attentäter #2 nähert sich Ajihad.
-0:00 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 87 Schaden.
-0:00 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 87 Schaden.
-0:04 Nerix Balbarosch nähert sich Horras-Späher #1.
-0:06 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 123 Schaden.
-0:06 Horras-Attentäter #1 nähert sich Caera.
-0:06 Horras-Attentäter #2 nähert sich Ajihad.
-0:08 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 96 Schaden.
-0:08 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-0:08 Nerix Balbarosch nähert sich Horras-Späher #1.
-0:12 San zaubert [Granithaut] auf Ajihad: erfolgreich.
-0:12 San zaubert [Granithaut] auf San: erfolgreich.
-0:12 San zaubert [Granithaut] auf Caera: verfehlt.
-0:12 San zaubert [Granithaut] auf Klaehan: verfehlt.
-0:12 San zaubert [Granithaut] auf Monochrom: erfolgreich.
-0:12 San zaubert [Granithaut] auf Nerix Balbarosch: erfolgreich.
-0:12 Monochrom zaubert [Elementargeist] auf Horras-Späher #1: erfolgreich.
-0:12 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 84 Schaden.
-0:12 Monochrom zaubert [Elementargeist] auf Horras-Späher #2: erfolgreich.
-0:12 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 100 Schaden.
-0:12 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 122 Schaden.
-0:12 Horras-Attentäter #1 nähert sich Caera.
-0:12 Horras-Attentäter #2 nähert sich Ajihad.
-0:12 Nerix Balbarosch nähert sich Horras-Späher #1.
-0:16 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 64 Schaden.
-0:16 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 76 Schaden.
-0:16 Nerix Balbarosch nähert sich Horras-Späher #1.
-0:18 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 115 Schaden.
-0:18 Horras-Attentäter #1 nähert sich Caera.
-0:18 Horras-Attentäter #2 nähert sich Ajihad.
-0:20 Nerix Balbarosch nähert sich Horras-Späher #1.
+0:00 Angrosch nähert sich Vampirfledermaus #1.
+0:00 Celeste nähert sich Vampir #1.
+0:00 Emila Kharuso zaubert [Im Fluss II] auf Emila Kharuso: erfolgreich.
+0:00 Grumpel zaubert [Jagdbogen (Giftpfeile)] auf Vampir #1: erfolgreich.
+0:00 [Jagdbogen (Giftpfeile)] wirkt auf Vampir #1: kein Schaden.
+0:00 Irodin zaubert [Kampfrausch I] auf Celeste: erfolgreich.
+0:00 Lyra Kharuso zaubert [Versteinern I] auf Vampirfledermaus #1: erfolgreich.
+0:00 Relokas zaubert [Repetierarmbrust (Giftbolzen)] auf Vampirfledermaus #2: weicht aus.
+0:00 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 25 Schaden.
+0:00 Vampir #1 nähert sich Angrosch.
+0:00 Vampirfledermaus #1 nähert sich Celeste.
+0:00 Vampirfledermaus #2 nähert sich Grumpel.
+0:06 Angrosch nähert sich Vampirfledermaus #1.
+0:06 Celeste nähert sich Vampir #1.
+0:06 Grumpel wechselt in den Nahkampf.
+0:06 Vampir #1 nähert sich Angrosch.
+0:06 Vampirfledermaus #1 nähert sich Celeste.
+0:06 Vampirfledermaus #2 nähert sich Grumpel.
+0:08 Emila Kharuso zaubert [Korrosion I] auf Vampirfledermaus #1: erfolgreich.
+0:08 Irodin zaubert [Inferno I] auf Vampirfledermaus #1: verfehlt.
+0:08 Lyra Kharuso [Kieselschlag I] greift Vampirfledermaus #2 an: verursacht 8 Schaden.
+0:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 11 Schaden.
+0:12 Angrosch nähert sich Vampirfledermaus #1.
+0:12 Celeste nähert sich Vampir #1.
+0:12 Vampir #1 nähert sich Angrosch.
+0:12 Vampirfledermaus #1 nähert sich Celeste.
+0:12 Vampirfledermaus #2 nähert sich Grumpel.
+0:14 Grumpel nähert sich Vampir #1.
+0:16 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 23 Schaden.
+0:16 Emila Kharuso [Flüssiger Dreizack II] greift Vampirfledermaus #1 an: verursacht 14 Schaden.
+0:16 Emila Kharuso [Flüssiger Dreizack II] greift Vampir #1 an: verfehlt.
+0:16 Emila Kharuso [Flüssiger Dreizack II] greift Vampirfledermaus #2 an: verfehlt.
+0:16 Lyra Kharuso [Kieselschlag I] greift Vampirfledermaus #2 an: verursacht 13 Schaden.
+0:18 Angrosch nähert sich Vampirfledermaus #1.
+0:18 Celeste nähert sich Vampir #1.
+0:18 Vampir #1 nähert sich Angrosch.
+0:18 Vampirfledermaus #1 nähert sich Celeste.
+0:18 Vampirfledermaus #2 nähert sich Grumpel.
+0:20 Irodin zaubert [Kampfeswut I] auf Vampirfledermaus #1: erfolgreich.
+0:20 Grumpel nähert sich Vampir #1.
 
 Runde 2
-0:24 Klaehan [Diamant-Armbrust] greift Horras-Späher #2 an: verursacht 754 Schaden (krit. Treffer).
-0:24 Ajihad [Ballista] greift Horras-Attentäter #2 an: verursacht 48 Schaden.
-0:24 San zaubert [Gruppen-Heilung III] auf San: heilt 138 LP (exzellenter Treffer).
-0:24 San zaubert [Gruppen-Heilung III] auf Caera: heilt 155 LP (exzellenter Treffer).
-0:24 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 97 LP.
-0:24 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 99 LP.
-0:24 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 133 LP (exzellenter Treffer).
-0:24 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 132 Schaden.
-0:24 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 110 Schaden.
-0:24 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 53 Schaden.
-0:24 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 86 Schaden.
-0:24 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 110 Schaden.
-0:24 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 82 Schaden.
-0:24 Horras-Attentäter #1 nähert sich Caera.
-0:24 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 170 Schaden (krit. Treffer).
-0:24 Horras-Attentäter #2 nähert sich Ajihad.
-0:24 Nerix Balbarosch nähert sich Horras-Späher #1.
-0:28 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verfehlt.
-0:30 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 279 Schaden (krit. Treffer).
-0:30 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden (74 Schaden geblockt).
-0:30 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden (84 Schaden geblockt).
-0:30 Horras-Attentäter #2 nähert sich Ajihad.
-0:32 Horras-Späher #1 [Horrasbogen] greift Ajihad an: weicht aus.
-0:32 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 71 Schaden.
-0:36 San zaubert [Gruppen-Heilung III] auf San: heilt 103 LP.
-0:36 San zaubert [Gruppen-Heilung III] auf Caera: heilt 92 LP.
-0:36 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 107 LP.
-0:36 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 128 LP.
-0:36 San zaubert [Gruppen-Heilung III] auf Ajihad: misslingt.
-0:36 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 231 Schaden (krit. Treffer).
-0:36 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 75 Schaden.
-0:36 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verfehlt.
-0:36 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 204 Schaden (krit. Treffer).
-0:36 Horras-Attentäter #2 nähert sich Ajihad.
-0:36 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 214 Schaden (krit. Treffer).
-0:36 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 234 Schaden (krit. Treffer).
-0:38 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 60 Schaden (krit. Treffer).
-0:38 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden (85 Schaden geblockt).
-0:40 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 188 Schaden (krit. Treffer).
-0:40 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 109 Schaden.
-0:42 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 129 Schaden.
-0:42 Horras-Attentäter #2 nähert sich Ajihad.
-0:44 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 90 Schaden.
-0:46 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 2 Schaden.
-0:46 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden (126 Schaden geblockt).
+0:24 Relokas zaubert [Repetierarmbrust (Giftbolzen)] auf Vampirfledermaus #2: verfehlt.
+0:24 Lyra Kharuso zaubert [Versteinern I] auf Vampir #1: erfolgreich.
+0:24 Angrosch nähert sich Vampirfledermaus #1.
+0:24 Celeste nähert sich Vampir #1.
+0:24 [Jagdbogen (Giftpfeile)] wirkt auf Vampir #1: kein Schaden.
+0:24 Vampir #1 nähert sich Angrosch.
+0:24 Vampirfledermaus #1 nähert sich Celeste.
+0:24 Vampirfledermaus #2 nähert sich Grumpel.
+0:26 Emila Kharuso zaubert [Im Fluss II] auf Angrosch: verfehlt.
+0:26 Grumpel wechselt in den Fernkampf.
+0:28 Irodin zaubert [Kampfrausch I] auf Irodin: erfolgreich.
+0:30 Angrosch nähert sich Vampirfledermaus #1.
+0:30 Celeste nähert sich Vampir #1.
+0:30 Vampir #1 nähert sich Angrosch.
+0:30 Vampirfledermaus #1 nähert sich Celeste.
+0:30 Vampirfledermaus #2 nähert sich Grumpel.
+0:32 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 33 Schaden.
+0:32 Lyra Kharuso [Kieselschlag I] greift Vampir #1 an: verursacht 8 Schaden.
+0:34 Emila Kharuso zaubert [Korrosion I] auf Vampirfledermaus #2: weicht aus.
+0:34 Grumpel zaubert [Jagdbogen (Giftpfeile)] auf Vampirfledermaus #2: verfehlt.
+0:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 8 Schaden.
+0:36 Irodin zaubert [Inferno I] auf Vampirfledermaus #1: verfehlt.
+0:36 Angrosch nähert sich Vampirfledermaus #1.
+0:36 Celeste nähert sich Vampir #1.
+0:36 Vampir #1 nähert sich Angrosch.
+0:36 Vampirfledermaus #1 nähert sich Celeste.
+0:36 Vampirfledermaus #2 nähert sich Grumpel.
+0:40 Lyra Kharuso [Kieselschlag I] greift Vampirfledermaus #1 an: verursacht 7 Schaden.
+0:40 Grumpel wechselt in den Nahkampf.
+0:42 Emila Kharuso [Flüssiger Dreizack II] greift Vampir #1 an: verursacht 13 Schaden.
+0:42 Emila Kharuso [Flüssiger Dreizack II] greift Vampirfledermaus #1 an: verfehlt.
+0:42 Emila Kharuso [Flüssiger Dreizack II] greift Vampirfledermaus #2 an: verursacht 18 Schaden.
+0:42 Angrosch nähert sich Vampirfledermaus #1.
+0:42 Celeste nähert sich Vampir #1.
+0:42 Vampir #1 nähert sich Angrosch.
+0:42 Vampirfledermaus #1 nähert sich Celeste.
+0:42 Vampirfledermaus #2 nähert sich Grumpel.
 
 Runde 3
-0:48 Klaehan [Diamant-Armbrust] greift Horras-Späher #2 an: weicht aus.
-0:48 Ajihad [Ballista] greift Horras-Attentäter #2 an: verursacht 50 Schaden.
-0:48 San zaubert [Gruppen-Heilung III] auf San: heilt 121 LP.
-0:48 San zaubert [Gruppen-Heilung III] auf Caera: heilt 142 LP (exzellenter Treffer).
-0:48 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 127 LP.
-0:48 San zaubert [Gruppen-Heilung III] auf Monochrom: misslingt.
-0:48 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 89 LP.
-0:48 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verfehlt.
-0:48 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 101 Schaden.
-0:48 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 86 Schaden.
-0:48 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 71 Schaden.
-0:48 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 223 Schaden (krit. Treffer).
-0:48 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 71 Schaden.
-0:48 Horras-Attentäter #2 nähert sich Ajihad.
-0:48 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 158 Schaden (krit. Treffer).
-0:52 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 55 Schaden.
-0:54 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 111 Schaden.
-0:54 Horras-Attentäter #2 nähert sich Ajihad.
-0:54 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden.
-0:54 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 12 Schaden.
-0:56 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 71 Schaden.
-0:56 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 76 Schaden.
-1:00 San zaubert [Gruppen-Heilung III] auf San: heilt 125 LP.
-1:00 San zaubert [Gruppen-Heilung III] auf Caera: heilt 91 LP.
-1:00 San zaubert [Gruppen-Heilung III] auf Klaehan: misslingt.
-1:00 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 133 LP.
-1:00 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 97 LP.
-1:00 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 158 Schaden.
-1:00 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verfehlt.
-1:00 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 78 Schaden.
-1:00 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 118 Schaden.
-1:00 Horras-Attentäter #2 nähert sich Ajihad.
-1:00 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 97 Schaden.
-1:00 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 64 Schaden.
-1:02 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 18 Schaden.
-1:02 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
-1:04 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 69 Schaden.
-1:04 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 101 Schaden.
-1:06 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 96 Schaden.
-1:06 Horras-Attentäter #2 nähert sich Ajihad.
-1:08 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: weicht aus.
-1:10 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden.
-1:10 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
+0:48 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verfehlt.
+0:48 Relokas zaubert [Repetierarmbrust (Giftbolzen)] auf Vampirfledermaus #1: verfehlt.
+0:48 Irodin zaubert [Kampfeswut I] auf Vampir #1: erfolgreich.
+0:48 Lyra Kharuso zaubert [Versteinern I] auf Vampirfledermaus #2: erfolgreich.
+0:48 Grumpel nähert sich Vampirfledermaus #2.
+0:48 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+0:48 Celeste [Dolch] greift Vampir #1 an: verfehlt.
+0:48 [Jagdbogen (Giftpfeile)] wirkt auf Vampir #1: kein Schaden.
+0:48 Vampir #1 [Biss] greift Celeste an: verfehlt.
+0:48 Vampir #1 [Klauen] greift Celeste an: verursacht 14 Schaden.
+0:48 Vampirfledermaus #1 nähert sich Celeste.
+0:48 Vampirfledermaus #2 nähert sich Grumpel.
+0:52 Emila Kharuso zaubert [Im Fluss II] auf Irodin: verfehlt.
+0:53 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+0:53 Celeste [Dolch] greift Vampir #1 an: verfehlt.
+0:54 Grumpel nähert sich Vampirfledermaus #2.
+0:54 Vampir #1 [Klauen] greift Celeste an: verursacht 27 Schaden.
+0:54 Vampirfledermaus #1 nähert sich Celeste.
+0:54 Vampirfledermaus #2 nähert sich Grumpel.
+0:56 Irodin [Feuerball II] greift Vampirfledermaus #2 an: verursacht 43 Schaden.
+0:56 Lyra Kharuso zaubert [Regeneration I] auf Celeste: erfolgreich.
+0:56 [Regeneration I] wirkt auf Celeste: heilt 19 LP.
+0:58 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+0:58 Celeste [Dolch] greift Vampir #1 an: kein Schaden.
+1:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 14 Schaden.
+1:00 Emila Kharuso zaubert [Linderung I] auf Celeste: heilt 19 LP.
+1:00 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+1:00 Grumpel nähert sich Vampirfledermaus #2.
+1:00 Vampir #1 [Biss] greift Celeste an: verfehlt.
+1:00 Vampir #1 [Klauen] greift Celeste an: verursacht 33 Schaden.
+1:00 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 19 Schaden.
+1:00 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 11 Schaden.
+1:00 Vampirfledermaus #2 nähert sich Grumpel.
+1:03 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:03 Celeste [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+1:04 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 53 Schaden (krit. Treffer).
+1:04 Irodin zaubert [Inferno I] auf Vampirfledermaus #2: erfolgreich.
+1:04 [Inferno I] wirkt auf Vampirfledermaus #2: verursacht 17 Schaden.
+1:06 Grumpel nähert sich Vampirfledermaus #2.
+1:06 Vampir #1 [Klauen] greift Celeste an: verursacht 9 Schaden.
+1:06 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 10 Schaden.
+1:06 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 17 Schaden.
+1:06 Vampirfledermaus #2 nähert sich Emila Kharuso.
+1:08 Lyra Kharuso zaubert [Heilung I] auf Celeste: heilt 32 LP.
+1:08 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (4 Schaden pariert).
+1:08 Celeste [Dolch] greift Vampir #1 an: verfehlt.
+1:10 Emila Kharuso zaubert [Linderung I] auf Celeste: misslingt.
+1:10 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 18 LP.
 
 Runde 4
-1:12 Klaehan wechselt in den Nahkampf.
-1:12 Ajihad [Ballista] greift Horras-Attentäter #2 an: verursacht 70 Schaden.
-1:12 San zaubert [Gruppen-Heilung III] auf San: heilt 98 LP.
-1:12 San zaubert [Gruppen-Heilung III] auf Caera: heilt 134 LP.
-1:12 San zaubert [Gruppen-Heilung III] auf Klaehan: misslingt.
-1:12 San zaubert [Gruppen-Heilung III] auf Monochrom: misslingt.
-1:12 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 101 LP.
-1:12 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 111 Schaden.
-1:12 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 83 Schaden.
-1:12 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 78 Schaden.
-1:12 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 92 Schaden.
-1:12 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 110 Schaden.
-1:12 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 74 Schaden.
-1:12 Horras-Attentäter #2 nähert sich Ajihad.
-1:12 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 75 Schaden.
-1:16 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 79 Schaden.
-1:18 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 112 Schaden.
-1:18 Horras-Attentäter #2 nähert sich Ajihad.
-1:18 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden.
-1:18 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
-1:20 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 74 Schaden.
-1:20 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 98 Schaden.
-1:24 San zaubert [Gruppen-Heilung III] auf Ajihad: misslingt.
-1:24 San zaubert [Gruppen-Heilung III] auf San: heilt 120 LP.
-1:24 San zaubert [Gruppen-Heilung III] auf Caera: heilt 99 LP.
-1:24 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 110 LP.
-1:24 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 114 LP.
-1:24 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 144 Schaden.
-1:24 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: weicht aus.
-1:24 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verfehlt.
-1:24 Caera [Diamant-Bogen] greift Horras-Späher #1 an: weicht aus.
-1:24 Horras-Attentäter #2 nähert sich Ajihad.
-1:24 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 97 Schaden.
-1:24 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 86 Schaden.
-1:26 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 11 Schaden.
-1:26 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verfehlt.
-1:28 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 207 Schaden (krit. Treffer).
-1:28 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 101 Schaden.
-1:30 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 240 Schaden (krit. Treffer).
-1:30 Horras-Attentäter #2 nähert sich Ajihad.
-1:32 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 102 Schaden.
-1:34 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden.
-1:34 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verfehlt.
+1:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 18 Schaden.
+1:12 Grumpel nähert sich Vampirfledermaus #2.
+1:12 Vampir #1 [Biss] greift Celeste an: verursacht 50 Schaden.
+1:12 Vampir #1 [Klauen] greift Celeste an: verursacht 29 Schaden.
+1:12 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 17 Schaden.
+1:12 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 7 Schaden.
+1:12 Vampirfledermaus #2 nähert sich Emila Kharuso.
+1:13 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:13 Celeste [Dolch] greift Vampir #1 an: verfehlt.
+1:16 Irodin [Feuerball II] greift Vampirfledermaus #2 an: verfehlt.
+1:16 Lyra Kharuso zaubert [Heilung I] auf Celeste: heilt 27 LP.
+1:18 Grumpel nähert sich Vampirfledermaus #2.
+1:18 Vampir #1 [Klauen] greift Celeste an: verursacht 13 Schaden.
+1:18 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 13 Schaden.
+1:18 Vampirfledermaus #1 [Biss] greift Celeste an: verfehlt.
+1:18 Vampirfledermaus #2 nähert sich Emila Kharuso.
+1:18 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:18 Celeste [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+1:20 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 33 Schaden.
+1:20 Emila Kharuso zaubert [Im Fluss II] auf Grumpel: verfehlt.
+1:20 [Regeneration I] wirkt auf Celeste: heilt 22 LP.
+1:23 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+1:23 Celeste [Dolch] greift Vampir #1 an: weicht aus.
+1:24 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 20 Schaden.
+1:24 Irodin [Feuerball II] greift Vampirfledermaus #2 an: verursacht 137 Schaden (krit. Treffer).
+1:24 Lyra Kharuso zaubert [Heilung I] auf Celeste: heilt 25 LP.
+1:24 Grumpel [Rapier] greift Vampirfledermaus #2 an: verursacht 35 Schaden (krit. Treffer).
+1:24 Vampir #1 [Biss] greift Celeste an: verfehlt.
+1:24 Vampir #1 [Klauen] greift Celeste an: verursacht 24 Schaden.
+1:24 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 14 Schaden.
+1:24 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 8 Schaden.
+1:24 Vampirfledermaus #2 [Kratzer] greift Grumpel an: verfehlt.
+1:24 Vampirfledermaus #2 [Biss] greift Grumpel an: verursacht 25 Schaden.
+1:28 Emila Kharuso zaubert [Linderung I] auf Celeste: heilt 14 LP.
+1:28 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 25 LP (exzellenter Treffer).
+1:28 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+1:28 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:28 Celeste [Dolch] greift Vampir #1 an: kein Schaden.
+1:28 [Inferno I] wirkt auf Vampirfledermaus #2: verursacht 54 Schaden (krit. Treffer).
+1:29 Grumpel [Rapier] greift Vampirfledermaus #2 an: verursacht 2 Schaden.
+1:30 Vampir #1 [Klauen] greift Celeste an: verfehlt.
+1:30 Vampirfledermaus #1 [Kratzer] greift Celeste an: verfehlt.
+1:30 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 22 Schaden.
+1:30 Vampirfledermaus #2 [Kratzer] greift Grumpel an: verursacht 23 Schaden.
+1:30 Vampirfledermaus #2 [Biss] greift Grumpel an: verfehlt.
+1:32 Irodin zaubert [Inferno I] auf Vampirfledermaus #1: verfehlt.
+1:32 Lyra Kharuso zaubert [Regeneration I] auf Grumpel: verfehlt.
+1:33 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+1:33 Celeste [Dolch] greift Vampir #1 an: kein Schaden.
+1:34 Grumpel [Rapier] greift Vampirfledermaus #2 an: kein Schaden (4 Schaden pariert).
 
 Runde 5
-1:36 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 39 Schaden.
-1:36 Ajihad wechselt in den Nahkampf.
-1:36 San zaubert [Gruppen-Heilung III] auf San: heilt 119 LP.
-1:36 San zaubert [Gruppen-Heilung III] auf Caera: heilt 140 LP (exzellenter Treffer).
-1:36 San zaubert [Gruppen-Heilung III] auf Klaehan: misslingt.
-1:36 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 88 LP.
-1:36 San zaubert [Gruppen-Heilung III] auf Ajihad: misslingt.
-1:36 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verfehlt.
-1:36 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 87 Schaden.
-1:36 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 50 Schaden.
-1:36 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-1:36 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verfehlt.
-1:36 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 145 Schaden (krit. Treffer).
-1:36 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 11 Schaden (77 Schaden geblockt).
-1:36 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 82 Schaden.
-1:36 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 75 Schaden.
-1:40 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verfehlt.
-1:42 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 98 Schaden.
-1:42 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden.
-1:42 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 14 Schaden.
-1:44 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 54 Schaden.
-1:44 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 62 Schaden.
-1:44 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 104 Schaden.
-1:44 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 84 Schaden.
-1:44 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 64 Schaden.
-1:48 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 132 LP.
-1:48 San zaubert [Gruppen-Heilung III] auf San: heilt 161 LP (exzellenter Treffer).
-1:48 San zaubert [Gruppen-Heilung III] auf Caera: heilt 108 LP.
-1:48 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 100 LP.
-1:48 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 105 LP.
-1:48 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 118 Schaden.
-1:48 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 77 Schaden.
-1:48 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 93 Schaden.
-1:48 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 103 Schaden.
-1:48 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 73 Schaden.
-1:48 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 106 Schaden.
-1:50 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 3 Schaden.
-1:50 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 103 Schaden (krit. Treffer).
-1:52 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 49 Schaden.
-1:52 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 85 Schaden.
-1:52 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 75 Schaden.
-1:52 Horras-Späher #1 [Horrasbogen] greift Ajihad an: weicht aus.
-1:52 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 77 Schaden.
-1:54 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 120 Schaden.
-1:56 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 83 Schaden.
-1:58 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden (78 Schaden geblockt).
-1:58 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: weicht aus.
+1:36 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verfehlt.
+1:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 12 Schaden.
+1:36 Vampir #1 [Biss] greift Celeste an: verursacht 108 Schaden (krit. Treffer).
+1:36 Vampir #1 [Klauen] greift Celeste an: verursacht 27 Schaden.
+1:36 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 18 Schaden.
+1:36 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 13 Schaden.
+1:36 Vampirfledermaus #2 [Kratzer] greift Grumpel an: verursacht 15 Schaden.
+1:36 Vampirfledermaus #2 [Biss] greift Grumpel an: weicht aus.
+1:38 Emila Kharuso zaubert [Linderung I] auf Celeste: misslingt.
+1:38 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 23 LP (exzellenter Treffer).
+1:38 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+1:38 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:38 Celeste [Dolch] greift Vampir #1 an: kein Schaden.
+1:39 Grumpel [Rapier] greift Vampirfledermaus #2 an: kein Schaden (4 Schaden pariert).
+1:42 Vampir #1 [Klauen] greift Celeste an: verursacht 16 Schaden.
+1:42 Vampirfledermaus #1 [Kratzer] greift Celeste an: verfehlt.
+1:42 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 23 Schaden.
+1:42 Vampirfledermaus #2 [Kratzer] greift Grumpel an: verursacht 13 Schaden.
+1:42 Vampirfledermaus #2 [Biss] greift Grumpel an: weicht aus.
+1:43 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:43 Celeste [Dolch] greift Vampir #1 an: verfehlt.
+1:44 Irodin [Feuerball II] greift Vampirfledermaus #2 an: verfehlt.
+1:44 Lyra Kharuso zaubert [Heilung I] auf Celeste: misslingt.
+1:44 Grumpel [Rapier] greift Vampirfledermaus #2 an: verursacht 24 Schaden (krit. Treffer).
+1:44 [Regeneration I] wirkt auf Celeste: heilt 21 LP.
+1:48 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 32 Schaden (krit. Treffer).
+1:48 Emila Kharuso zaubert [Im Fluss II] auf Angrosch: erfolgreich.
+1:48 Vampir #1 [Biss] greift Celeste an: verursacht 41 Schaden.
+1:48 Vampir #1 [Klauen] greift Celeste an: verfehlt.
+1:48 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 18 Schaden.
+1:48 Vampirfledermaus #1 [Biss] greift Celeste an: weicht aus.
+1:48 Vampirfledermaus #2 [Kratzer] greift Grumpel an: verfehlt.
+1:48 Vampirfledermaus #2 [Biss] greift Grumpel an: verursacht 22 Schaden.
+1:48 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+1:48 Celeste [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+1:49 Grumpel [Rapier] greift Vampirfledermaus #2 an: verursacht 1 Schaden.
+1:52 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampirfledermaus #2 an: verursacht 77 Schaden (krit. Treffer).
+1:52 Irodin [Feuerball II] greift Vampirfledermaus #2 an: verursacht 69 Schaden.
+1:52 Vampirfledermaus #2 sinkt kampfunfähig zu Boden.
+1:52 Lyra Kharuso zaubert [Heilung I] auf Celeste: heilt 48 LP (exzellenter Treffer).
+1:53 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:53 Celeste [Dolch] greift Vampir #1 an: kein Schaden.
+1:54 Vampir #1 [Klauen] greift Celeste an: verursacht 16 Schaden.
+1:54 Vampirfledermaus #1 [Kratzer] greift Celeste an: verursacht 8 Schaden.
+1:54 Vampirfledermaus #1 [Biss] greift Celeste an: verursacht 19 Schaden.
+1:54 Grumpel nähert sich Vampirfledermaus #1.
+1:56 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 14 LP.
+1:56 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+1:56 Emila Kharuso zaubert [Linderung I] auf Celeste: misslingt.
+1:58 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+1:58 Celeste [Dolch] greift Vampir #1 an: verfehlt.
+1:58 Grumpel nähert sich Vampir #1.
 
 Runde 6
-2:00 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 32 Schaden.
-2:00 San zaubert [Granithaut] auf Caera: erfolgreich.
-2:00 San zaubert [Granithaut] auf San: erfolgreich.
-2:00 San zaubert [Granithaut] auf Klaehan: erfolgreich.
-2:00 San zaubert [Granithaut] auf Monochrom: erfolgreich.
-2:00 San zaubert [Granithaut] auf Nerix Balbarosch: verfehlt.
-2:00 San zaubert [Granithaut] auf Ajihad: verfehlt.
-2:00 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 117 Schaden.
-2:00 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 75 Schaden.
-2:00 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 68 Schaden.
-2:00 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 47 Schaden.
-2:00 Horras-Späher #1 [Horrasbogen] greift Ajihad an: weicht aus.
-2:00 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-2:00 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 32 Schaden.
-2:00 Caera [Diamant-Bogen] greift Horras-Späher #1 an: weicht aus.
-2:04 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 41 Schaden.
-2:06 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 13 Schaden.
-2:06 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 17 Schaden.
-2:06 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 116 Schaden.
-2:08 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 23 Schaden.
-2:08 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 164 Schaden (krit. Treffer).
-2:08 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: weicht aus.
-2:08 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 1 Schaden (59 Schaden geblockt).
-2:08 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 93 Schaden.
-2:08 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 37 Schaden.
-2:12 San zaubert [Granithaut] auf Nerix Balbarosch: erfolgreich.
-2:12 San zaubert [Granithaut] auf San: erfolgreich.
-2:12 San zaubert [Granithaut] auf Caera: erfolgreich.
-2:12 San zaubert [Granithaut] auf Klaehan: erfolgreich.
-2:12 San zaubert [Granithaut] auf Monochrom: erfolgreich.
-2:12 San zaubert [Granithaut] auf Ajihad: erfolgreich.
-2:12 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #2: erfolgreich.
-2:12 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 77 Schaden.
-2:12 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 294 Schaden (krit. Treffer).
-2:12 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 42 Schaden.
-2:14 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 18 Schaden.
-2:14 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
-2:16 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 67 Schaden.
-2:16 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: weicht aus.
-2:16 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 43 Schaden.
-2:16 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 79 Schaden.
-2:16 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verfehlt.
-2:16 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 109 Schaden.
-2:18 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 136 Schaden.
-2:20 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 50 Schaden.
-2:22 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden (74 Schaden geblockt).
-2:22 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 16 Schaden.
+2:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verfehlt.
+2:00 Irodin zaubert [Kampfrausch I] auf Celeste: erfolgreich.
+2:00 Lyra Kharuso zaubert [Regeneration I] auf Grumpel: erfolgreich.
+2:00 [Regeneration I] wirkt auf Grumpel: heilt 19 LP.
+2:00 Vampir #1 [Biss] greift Celeste an: verursacht 95 Schaden (krit. Treffer).
+2:00 Celeste sinkt kampfunfähig zu Boden.
+2:00 Vampirfledermaus #1 [Kratzer] greift Angrosch an: weicht aus.
+2:00 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 5 Schaden.
+2:02 Grumpel nähert sich Vampir #1.
+2:03 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+2:06 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+2:06 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 20 LP.
+2:06 Vampir #1 [Klauen] greift Grumpel an: verursacht 35 Schaden.
+2:06 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 9 Schaden.
+2:06 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 10 Schaden.
+2:06 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+2:08 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+2:08 Irodin zaubert [Inferno I] auf Vampirfledermaus #1: verfehlt.
+2:08 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+2:11 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+2:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verfehlt.
+2:12 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 43 LP (exzellenter Treffer).
+2:12 Vampir #1 [Biss] greift Grumpel an: verursacht 51 Schaden.
+2:12 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+2:12 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 8 Schaden.
+2:12 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+2:13 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+2:16 Emila Kharuso zaubert [Im Fluss II] auf Irodin: erfolgreich.
+2:16 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (5 Schaden pariert).
+2:18 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 9 Schaden.
+2:18 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+2:18 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+2:18 Vampir #1 [Klauen] greift Grumpel an: verursacht 19 Schaden.
+2:20 Irodin zaubert [Kampfeswut I] auf Vampirfledermaus #1: verfehlt.
+2:20 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 23 LP.
+2:21 Grumpel [Rapier] greift Vampir #1 an: verursacht 35 Schaden (krit. Treffer).
+2:23 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
 
 Runde 7
-2:24 San zaubert [Gruppen-Heilung III] auf San: heilt 173 LP (exzellenter Treffer).
-2:24 San zaubert [Gruppen-Heilung III] auf Caera: heilt 193 LP (exzellenter Treffer).
-2:24 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 156 LP (exzellenter Treffer).
-2:24 San zaubert [Gruppen-Heilung III] auf Monochrom: misslingt.
-2:24 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 129 LP.
-2:24 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #1: erfolgreich.
-2:24 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 85 Schaden.
-2:24 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 83 Schaden.
-2:24 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verfehlt.
-2:24 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 41 Schaden.
-2:24 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 25 Schaden.
-2:24 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 61 Schaden.
-2:24 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 75 Schaden.
-2:24 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 94 Schaden.
-2:28 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 128 Schaden.
-2:30 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 4 Schaden.
-2:30 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
-2:30 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 105 Schaden.
-2:32 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 5 Schaden (67 Schaden geblockt).
-2:32 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 5 Schaden (67 Schaden geblockt).
-2:32 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 50 Schaden.
-2:32 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 37 Schaden.
-2:32 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 7 Schaden (69 Schaden geblockt).
-2:32 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 100 Schaden.
-2:36 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 159 LP (exzellenter Treffer).
-2:36 San zaubert [Gruppen-Heilung III] auf San: misslingt.
-2:36 San zaubert [Gruppen-Heilung III] auf Caera: heilt 173 LP (exzellenter Treffer).
-2:36 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 122 LP.
-2:36 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 126 LP.
-2:36 Monochrom zaubert [Elementargeist] auf Horras-Späher #1: erfolgreich.
-2:36 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 213 Schaden (krit. Treffer).
-2:36 Monochrom zaubert [Elementargeist] auf Horras-Späher #2: erfolgreich.
-2:36 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 100 Schaden.
-2:36 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 38 Schaden.
-2:36 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 128 Schaden.
-2:36 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 87 Schaden.
-2:38 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 25 Schaden.
-2:38 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 12 Schaden.
-2:40 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 49 Schaden.
-2:40 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: weicht aus.
-2:40 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 4 Schaden (65 Schaden geblockt).
-2:40 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 109 Schaden.
-2:40 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 191 Schaden (krit. Treffer).
-2:40 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: weicht aus.
-2:42 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 121 Schaden.
-2:44 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 90 Schaden.
-2:46 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 14 Schaden.
-2:46 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
+2:24 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 22 Schaden.
+2:24 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 13 Schaden.
+2:24 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 18 LP.
+2:24 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+2:24 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 17 Schaden.
+2:24 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 15 Schaden.
+2:24 [Regeneration I] wirkt auf Grumpel: heilt 19 LP.
+2:24 Vampir #1 [Biss] greift Grumpel an: verursacht 53 Schaden.
+2:24 Vampir #1 [Klauen] greift Grumpel an: verursacht 33 Schaden.
+2:26 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+2:28 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 26 LP.
+2:28 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+2:28 Irodin zaubert [Kampfrausch I] auf Irodin: erfolgreich.
+2:30 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 13 Schaden.
+2:30 Vampirfledermaus #1 [Biss] greift Angrosch an: weicht aus.
+2:30 Vampir #1 [Klauen] greift Grumpel an: verursacht 16 Schaden.
+2:31 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+2:33 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+2:34 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+2:34 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+2:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 14 Schaden.
+2:36 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 29 LP.
+2:36 Irodin zaubert [Inferno I] auf Vampirfledermaus #1: erfolgreich.
+2:36 [Inferno I] wirkt auf Vampirfledermaus #1: verursacht 20 Schaden.
+2:36 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verfehlt.
+2:36 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 14 Schaden.
+2:36 Vampir #1 [Biss] greift Grumpel an: verursacht 37 Schaden.
+2:36 Vampir #1 [Klauen] greift Grumpel an: verursacht 30 Schaden.
+2:36 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+2:38 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+2:40 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 15 Schaden.
+2:41 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+2:42 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 22 Schaden.
+2:42 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 17 Schaden.
+2:42 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+2:43 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+2:44 Emila Kharuso zaubert [Im Fluss II] auf Lyra Kharuso: erfolgreich.
+2:44 Lyra Kharuso zaubert [Regeneration I] auf Angrosch: erfolgreich.
+2:44 [Regeneration I] wirkt auf Angrosch: heilt 21 LP.
+2:46 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
 
 Runde 8
-2:48 San zaubert [Gruppen-Heilung III] auf San: misslingt.
-2:48 San zaubert [Gruppen-Heilung III] auf Caera: heilt 130 LP.
-2:48 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 89 LP.
-2:48 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 90 LP.
-2:48 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 106 LP.
-2:48 Monochrom [Sphärenschwert] greift Horras-Attentäter #1 an: verursacht 265 Schaden (krit. Treffer).
-2:48 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 122 Schaden (krit. Treffer).
-2:48 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 75 Schaden.
-2:48 Horras-Späher #1 [Horrasbogen] greift Ajihad an: kein Schaden (53 Schaden geblockt).
-2:48 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 75 Schaden.
-2:48 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: weicht aus.
-2:48 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: weicht aus.
-2:48 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 84 Schaden.
-2:48 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 86 Schaden.
-2:52 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 73 Schaden.
-2:54 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 88 Schaden.
-2:54 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 3 Schaden.
-2:54 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden (70 Schaden geblockt).
-2:56 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 112 Schaden (krit. Treffer).
-2:56 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 117 Schaden (krit. Treffer).
-2:56 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 84 Schaden.
-2:56 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-2:56 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: weicht aus.
-2:56 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 7 Schaden (70 Schaden geblockt).
-3:00 San zaubert [Gruppen-Heilung III] auf San: heilt 139 LP (exzellenter Treffer).
-3:00 San zaubert [Gruppen-Heilung III] auf Caera: misslingt.
-3:00 San zaubert [Gruppen-Heilung III] auf Klaehan: misslingt.
-3:00 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 106 LP.
-3:00 San zaubert [Gruppen-Heilung III] auf Ajihad: misslingt.
-3:00 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 107 Schaden.
-3:00 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 177 Schaden (krit. Treffer).
-3:00 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: weicht aus.
-3:00 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 136 Schaden.
-3:00 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 101 Schaden.
-3:00 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 108 Schaden.
-3:00 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 58 Schaden.
-3:02 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden (83 Schaden geblockt).
-3:02 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 12 Schaden.
-3:04 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 41 Schaden.
-3:04 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 23 Schaden.
-3:04 Horras-Späher #1 [Horrasbogen] greift Ajihad an: weicht aus.
-3:04 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 72 Schaden.
-3:04 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 7 Schaden (70 Schaden geblockt).
-3:04 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: weicht aus.
-3:06 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 92 Schaden.
-3:08 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 122 Schaden.
-3:10 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden (71 Schaden geblockt).
-3:10 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
+2:48 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 22 Schaden.
+2:48 Irodin zaubert [Kampfeswut I] auf Vampirfledermaus #1: verfehlt.
+2:48 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 15 Schaden.
+2:48 Vampirfledermaus #1 [Biss] greift Angrosch an: weicht aus.
+2:48 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+2:48 [Regeneration I] wirkt auf Grumpel: heilt 23 LP.
+2:48 Vampir #1 [Biss] greift Grumpel an: verursacht 28 Schaden.
+2:48 Vampir #1 [Klauen] greift Grumpel an: verursacht 19 Schaden.
+2:51 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+2:52 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 20 LP.
+2:52 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 19 LP.
+2:53 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+2:54 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 17 Schaden.
+2:54 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 17 Schaden.
+2:54 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+2:56 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 23 Schaden.
+2:56 Lyra Kharuso zaubert [Heilung I] auf Grumpel: misslingt.
+2:56 Irodin zaubert [Kampfrausch I] auf Emila Kharuso: verfehlt.
+2:56 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+2:58 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+3:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 13 Schaden.
+3:00 [Inferno I] wirkt auf Vampirfledermaus #1: verursacht 26 Schaden.
+3:00 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verfehlt.
+3:00 Vampirfledermaus #1 [Biss] greift Angrosch an: weicht aus.
+3:00 Vampir #1 [Biss] greift Grumpel an: verursacht 27 Schaden.
+3:00 Vampir #1 [Klauen] greift Grumpel an: verursacht 34 Schaden.
+3:01 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+3:02 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 34 LP (exzellenter Treffer).
+3:02 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 22 LP.
+3:03 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+3:04 Lyra Kharuso zaubert [Heilung I] auf Grumpel: misslingt.
+3:04 Irodin zaubert [Inferno I] auf Vampir #1: erfolgreich.
+3:04 [Inferno I] wirkt auf Vampir #1: verursacht 15 Schaden.
+3:06 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 19 Schaden.
+3:06 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+3:06 Vampir #1 [Klauen] greift Grumpel an: verursacht 26 Schaden.
+3:06 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+3:08 [Regeneration I] wirkt auf Angrosch: heilt 22 LP.
+3:08 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+3:11 Grumpel [Rapier] greift Vampir #1 an: verursacht 6 Schaden (krit. Treffer) (10 Schaden pariert).
 
 Runde 9
-3:12 San zaubert [Gruppen-Heilung III] auf San: heilt 191 LP (exzellenter Treffer).
-3:12 San zaubert [Gruppen-Heilung III] auf Caera: heilt 138 LP (exzellenter Treffer).
-3:12 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 116 LP.
-3:12 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 141 LP (exzellenter Treffer).
-3:12 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 177 LP (exzellenter Treffer).
-3:12 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 277 Schaden (krit. Treffer).
-3:12 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 253 Schaden (krit. Treffer).
-3:12 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 44 Schaden.
-3:12 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 37 Schaden.
-3:12 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verfehlt.
-3:12 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 91 Schaden.
-3:12 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 57 Schaden.
-3:12 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 47 Schaden.
-3:12 Caera [Diamant-Bogen] greift Horras-Späher #1 an: weicht aus.
-3:12 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 67 Schaden.
-3:16 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 104 Schaden.
-3:18 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 93 Schaden.
-3:18 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden.
-3:18 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
-3:20 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 35 Schaden.
-3:20 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 68 Schaden.
-3:20 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 73 Schaden.
-3:20 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 90 Schaden.
-3:20 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 81 Schaden.
-3:20 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 69 Schaden.
-3:24 San zaubert [Gruppen-Heilung III] auf Nerix Balbarosch: heilt 122 LP.
-3:24 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: weicht aus.
-3:24 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 208 Schaden (krit. Treffer).
-3:24 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 99 Schaden.
-3:24 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 131 Schaden.
-3:24 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 180 Schaden (krit. Treffer).
-3:24 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 198 Schaden (krit. Treffer).
-3:24 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 82 Schaden.
-3:26 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 23 Schaden.
-3:26 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden (163 Schaden geblockt).
-3:28 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 139 Schaden (krit. Treffer).
-3:28 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 93 Schaden (krit. Treffer).
-3:28 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 55 Schaden.
-3:28 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 92 Schaden.
-3:28 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: weicht aus.
-3:28 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: kein Schaden (57 Schaden geblockt).
-3:30 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 129 Schaden.
-3:32 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 118 Schaden.
-3:34 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 12 Schaden.
-3:34 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 14 Schaden.
+3:12 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+3:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 14 Schaden.
+3:12 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 22 LP.
+3:12 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 24 LP (exzellenter Treffer).
+3:12 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 38 LP (exzellenter Treffer).
+3:12 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 8 Schaden.
+3:12 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 23 Schaden.
+3:12 Vampir #1 [Biss] greift Grumpel an: verursacht 28 Schaden.
+3:12 Vampir #1 [Klauen] greift Grumpel an: weicht aus.
+3:12 [Regeneration I] wirkt auf Grumpel: heilt 16 LP.
+3:13 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+3:16 Irodin zaubert [Kampfeswut I] auf Vampirfledermaus #1: verfehlt.
+3:16 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+3:18 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 17 Schaden.
+3:18 Vampirfledermaus #1 [Biss] greift Angrosch an: weicht aus.
+3:18 Vampir #1 [Klauen] greift Grumpel an: verursacht 25 Schaden.
+3:18 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+3:20 Lyra Kharuso zaubert [Heilung I] auf Grumpel: misslingt.
+3:21 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+3:22 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+3:22 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+3:23 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+3:24 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 11 Schaden.
+3:24 Irodin zaubert [Kampfrausch I] auf Lyra Kharuso: verfehlt.
+3:24 [Inferno I] wirkt auf Vampirfledermaus #1: verursacht 21 Schaden.
+3:24 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 7 Schaden.
+3:24 Vampirfledermaus #1 [Biss] greift Angrosch an: weicht aus.
+3:24 Vampir #1 [Biss] greift Grumpel an: verursacht 60 Schaden.
+3:24 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+3:26 Grumpel [Rapier] greift Vampir #1 an: verursacht 20 Schaden (krit. Treffer).
+3:28 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: weicht aus.
+3:28 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 30 LP.
+3:28 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+3:28 [Inferno I] wirkt auf Vampir #1: verursacht 14 Schaden.
+3:30 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 13 Schaden.
+3:30 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 48 Schaden (krit. Treffer).
+3:30 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+3:31 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+3:32 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 19 LP.
+3:32 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+3:32 Irodin [Feuerball II] greift Vampir #1 an: verursacht 63 Schaden.
+3:32 [Regeneration I] wirkt auf Angrosch: heilt 18 LP.
+3:33 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
 
 Runde 10
-3:36 San zaubert [Gruppen-Heilung III] auf San: heilt 92 LP.
-3:36 San zaubert [Gruppen-Heilung III] auf Caera: heilt 122 LP.
-3:36 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 134 LP (exzellenter Treffer).
-3:36 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 136 LP (exzellenter Treffer).
-3:36 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 150 LP (exzellenter Treffer).
-3:36 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 152 Schaden.
-3:36 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 91 Schaden.
-3:36 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: weicht aus.
-3:36 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: weicht aus.
-3:36 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 69 Schaden.
-3:36 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 94 Schaden.
-3:36 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: weicht aus.
-3:36 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 82 Schaden.
-3:36 Caera [Diamant-Bogen] greift Horras-Späher #1 an: weicht aus.
-3:36 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 235 Schaden (krit. Treffer).
-3:40 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verfehlt.
-3:42 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 97 Schaden.
-3:42 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 91 Schaden (krit. Treffer).
-3:42 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 17 Schaden.
-3:44 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 134 Schaden (krit. Treffer).
-3:44 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 24 Schaden.
-3:44 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verfehlt.
-3:44 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 86 Schaden.
-3:44 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 57 Schaden.
-3:44 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 49 Schaden.
-3:48 San zaubert [Gruppen-Heilung III] auf San: heilt 143 LP (exzellenter Treffer).
-3:48 San zaubert [Gruppen-Heilung III] auf Caera: heilt 104 LP.
-3:48 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 108 LP.
-3:48 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 121 LP.
-3:48 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 97 LP.
-3:48 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verursacht 274 Schaden (krit. Treffer).
-3:48 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 84 Schaden.
-3:48 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 61 Schaden.
-3:48 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 131 Schaden.
-3:48 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 78 Schaden.
-3:48 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 77 Schaden.
-3:48 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 65 Schaden.
-3:50 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 12 Schaden.
-3:50 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 3 Schaden.
-3:52 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 32 Schaden.
-3:52 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 52 Schaden.
-3:52 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 6 Schaden (67 Schaden geblockt).
-3:52 Horras-Späher #2 [Horrasbogen] greift San an: verfehlt.
-3:52 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 46 Schaden (krit. Treffer) (136 Schaden geblockt).
-3:52 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 75 Schaden.
-3:54 Caera [Diamant-Bogen] greift Horras-Späher #1 an: weicht aus.
-3:56 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 44 Schaden.
-3:58 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden.
-3:58 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
+3:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 14 Schaden.
+3:36 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 21 LP.
+3:36 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verfehlt.
+3:36 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+3:36 Vampir #1 [Biss] greift Grumpel an: verursacht 48 Schaden.
+3:36 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+3:36 [Regeneration I] wirkt auf Grumpel: heilt 21 LP.
+3:36 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+3:38 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+3:40 Irodin zaubert [Kampfeswut I] auf Vampirfledermaus #1: verfehlt.
+3:41 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+3:42 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 22 LP.
+3:42 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+3:42 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 15 Schaden.
+3:42 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 22 Schaden.
+3:42 Vampir #1 [Klauen] greift Grumpel an: verursacht 36 Schaden.
+3:43 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+3:44 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: weicht aus.
+3:44 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 32 LP.
+3:46 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+3:48 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 13 Schaden.
+3:48 Irodin zaubert [Kampfrausch I] auf Lyra Kharuso: erfolgreich.
+3:48 [Inferno I] wirkt auf Vampirfledermaus #1: verursacht 15 Schaden.
+3:48 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 10 Schaden.
+3:48 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 7 Schaden.
+3:48 Vampir #1 [Biss] greift Grumpel an: verursacht 26 Schaden.
+3:48 Vampir #1 [Klauen] greift Grumpel an: weicht aus.
+3:48 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+3:51 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+3:52 Emila Kharuso zaubert [Im Fluss II] auf Grumpel: verfehlt.
+3:52 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
+3:52 [Inferno I] wirkt auf Vampir #1: verursacht 17 Schaden.
+3:53 Angrosch [Dolch] greift Vampir #1 an: verursacht 12 Schaden (krit. Treffer).
+3:54 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 10 Schaden.
+3:54 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 13 Schaden.
+3:54 Vampir #1 [Klauen] greift Grumpel an: weicht aus.
+3:56 Irodin [Feuerball II] greift Vampirfledermaus #1 an: verfehlt.
+3:56 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+3:56 [Regeneration I] wirkt auf Angrosch: heilt 19 LP.
+3:58 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (2 Schaden pariert).
 
 Runde 11
-4:00 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 112 LP.
-4:00 San zaubert [Gruppen-Heilung III] auf San: heilt 98 LP.
-4:00 San zaubert [Gruppen-Heilung III] auf Caera: heilt 105 LP.
-4:00 San zaubert [Gruppen-Heilung III] auf Klaehan: misslingt.
-4:00 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 88 LP.
-4:00 Monochrom [Sphärenschwert] greift Horras-Späher #1 an: verfehlt.
-4:00 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: weicht aus.
-4:00 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 45 Schaden.
-4:00 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 25 Schaden.
-4:00 Horras-Späher #1 [Horrasbogen] greift Ajihad an: kein Schaden (55 Schaden geblockt).
-4:00 Horras-Späher #2 [Horrasbogen] greift San an: verfehlt.
-4:00 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: weicht aus.
-4:00 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 50 Schaden.
-4:00 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 133 Schaden.
-4:00 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 77 Schaden.
-4:04 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verursacht 78 Schaden.
-4:06 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verfehlt.
-4:06 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: verursacht 23 Schaden.
-4:06 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: kein Schaden.
-4:08 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 41 Schaden.
-4:08 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verfehlt.
-4:08 Horras-Späher #1 [Horrasbogen] greift Ajihad an: verursacht 77 Schaden.
-4:08 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 70 Schaden.
-4:08 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 47 Schaden.
-4:08 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 72 Schaden.
-4:12 [Elementargeist] wirkt auf Horras-Späher #1: verursacht 183 Schaden (krit. Treffer).
-4:12 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 250 Schaden (krit. Treffer).
-4:12 San zaubert [Granithaut] auf Caera: erfolgreich.
-4:12 San zaubert [Granithaut] auf San: erfolgreich.
-4:12 San zaubert [Granithaut] auf Klaehan: erfolgreich.
-4:12 San zaubert [Granithaut] auf Monochrom: erfolgreich.
-4:12 San zaubert [Granithaut] auf Nerix Balbarosch: verfehlt.
-4:12 San zaubert [Granithaut] auf Ajihad: erfolgreich.
-4:12 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #2: weicht aus.
-4:12 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: weicht aus.
-4:12 Caera [Diamant-Bogen] greift Horras-Späher #1 an: verursacht 132 Schaden.
-4:12 Horras-Späher #1 sinkt kampfunfähig zu Boden.
-4:14 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: weicht aus.
-4:14 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 122 Schaden (krit. Treffer).
-4:16 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 116 Schaden (krit. Treffer).
-4:16 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: verursacht 168 Schaden (krit. Treffer).
-4:16 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 82 Schaden.
-4:16 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: verursacht 78 Schaden.
-4:16 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 4 Schaden (64 Schaden geblockt).
-4:18 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 129 Schaden.
-4:20 Nerix Balbarosch [Obsidian-Hammer] greift Horras-Attentäter #1 an: verfehlt.
-4:22 Horras-Attentäter #1 [Streitkolben] greift Nerix Balbarosch an: kein Schaden (79 Schaden geblockt).
-4:22 Horras-Attentäter #1 [Trickdolch] greift Nerix Balbarosch an: verursacht 33 Schaden.
-4:23 Nerix Balbarosch sinkt kampfunfähig zu Boden.
+4:00 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+4:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 21 Schaden.
+4:00 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+4:00 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 34 LP (exzellenter Treffer).
+4:00 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 21 LP.
+4:00 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 20 Schaden.
+4:00 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 23 Schaden.
+4:00 Vampir #1 [Biss] greift Grumpel an: verfehlt.
+4:00 Vampir #1 [Klauen] greift Grumpel an: weicht aus.
+4:01 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+4:03 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:04 Irodin zaubert [Kampfeswut I] auf Vampirfledermaus #1: erfolgreich.
+4:06 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verfehlt.
+4:06 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 23 Schaden.
+4:06 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+4:06 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+4:08 Lyra Kharuso zaubert [Regeneration I] auf Grumpel: erfolgreich.
+4:08 [Regeneration I] wirkt auf Grumpel: heilt 24 LP.
+4:08 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:10 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 19 LP.
+4:10 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+4:11 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+4:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 22 Schaden.
+4:12 Irodin [Feuerball II] greift Vampirfledermaus #1 an: verfehlt.
+4:12 [Inferno I] wirkt auf Vampirfledermaus #1: verursacht 22 Schaden.
+4:12 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 16 Schaden.
+4:12 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 17 Schaden.
+4:12 Vampir #1 [Biss] greift Grumpel an: verfehlt.
+4:12 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+4:13 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:16 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+4:16 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+4:16 [Inferno I] wirkt auf Vampir #1: verursacht 17 Schaden.
+4:18 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 19 Schaden.
+4:18 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+4:18 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+4:18 Vampir #1 [Klauen] greift Grumpel an: verursacht 23 Schaden.
+4:20 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 24 LP.
+4:20 Emila Kharuso zaubert [Im Fluss II] auf Grumpel: verfehlt.
+4:20 Irodin [Feuerball II] greift Vampirfledermaus #1 an: verursacht 57 Schaden.
+4:20 [Regeneration I] wirkt auf Angrosch: heilt 22 LP.
+4:21 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+4:23 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
 
 Runde 12
-4:24 San zaubert [Gruppen-Heilung III] auf San: heilt 117 LP.
-4:24 San zaubert [Gruppen-Heilung III] auf Caera: heilt 114 LP.
-4:24 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 118 LP.
-4:24 San zaubert [Gruppen-Heilung III] auf Monochrom: misslingt.
-4:24 San zaubert [Gruppen-Heilung III] auf Ajihad: heilt 105 LP.
-4:24 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #2: weicht aus.
-4:24 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: weicht aus.
-4:24 Ajihad [Kriegszepter] greift Horras-Attentäter #2 an: weicht aus.
-4:24 Horras-Späher #2 [Horrasbogen] greift San an: verfehlt.
-4:24 Horras-Attentäter #2 [Streitkolben] greift Ajihad an: weicht aus.
-4:24 Horras-Attentäter #2 [Trickdolch] greift Ajihad an: verursacht 205 Schaden (krit. Treffer).
-4:24 Ajihad sinkt kampfunfähig zu Boden.
-4:24 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 249 Schaden (krit. Treffer).
-4:30 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 88 Schaden.
-4:30 Horras-Attentäter #1 nähert sich Caera.
-4:32 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 144 Schaden (krit. Treffer).
-4:32 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-4:32 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: weicht aus.
-4:32 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: weicht aus.
-4:36 San zaubert [Gruppen-Heilung III] auf San: heilt 109 LP.
-4:36 San zaubert [Gruppen-Heilung III] auf Caera: misslingt.
-4:36 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 88 LP.
-4:36 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 176 LP (exzellenter Treffer).
-4:36 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #2: verfehlt.
-4:36 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 90 Schaden.
-4:36 Horras-Attentäter #1 nähert sich Caera.
-4:40 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 55 Schaden.
-4:40 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 179 Schaden (krit. Treffer).
-4:40 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 87 Schaden.
-4:40 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 85 Schaden.
-4:42 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 95 Schaden.
-4:42 Horras-Attentäter #1 nähert sich Caera.
+4:24 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 37 Schaden (krit. Treffer).
+4:24 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 20 Schaden.
+4:24 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 16 Schaden.
+4:24 Vampir #1 [Biss] greift Grumpel an: verursacht 97 Schaden (krit. Treffer).
+4:24 Vampir #1 [Klauen] greift Grumpel an: verursacht 23 Schaden.
+4:26 Grumpel [Rapier] greift Vampir #1 an: verursacht 24 Schaden (krit. Treffer).
+4:28 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 40 LP (exzellenter Treffer).
+4:28 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+4:28 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+4:28 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:28 Irodin zaubert [Kampfrausch I] auf Emila Kharuso: erfolgreich.
+4:30 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 21 Schaden.
+4:30 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 16 Schaden.
+4:30 Vampir #1 [Klauen] greift Grumpel an: verursacht 29 Schaden.
+4:31 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+4:32 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 19 Schaden.
+4:32 [Regeneration I] wirkt auf Grumpel: heilt 19 LP.
+4:33 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verursacht 16 Schaden.
+4:36 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 40 LP (exzellenter Treffer).
+4:36 Irodin [Feuerball II] greift Vampirfledermaus #1 an: verursacht 69 Schaden.
+4:36 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 14 Schaden.
+4:36 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+4:36 Vampir #1 [Biss] greift Grumpel an: verursacht 31 Schaden.
+4:36 Vampir #1 [Klauen] greift Grumpel an: weicht aus.
+4:36 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (4 Schaden pariert).
+4:38 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 20 LP.
+4:38 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 30 LP (exzellenter Treffer).
+4:38 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:40 [Inferno I] wirkt auf Vampir #1: verursacht 17 Schaden.
+4:41 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+4:42 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 19 Schaden.
+4:42 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 9 Schaden.
+4:42 Vampir #1 [Klauen] greift Grumpel an: weicht aus.
+4:43 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+4:44 Irodin zaubert [Inferno I] auf Vampirfledermaus #1: erfolgreich.
+4:44 [Inferno I] wirkt auf Vampirfledermaus #1: verursacht 20 Schaden.
+4:44 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 22 LP.
+4:46 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
 
 Runde 13
-4:48 San zaubert [Gruppen-Heilung III] auf San: heilt 111 LP.
-4:48 San zaubert [Gruppen-Heilung III] auf Caera: heilt 99 LP.
-4:48 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 122 LP.
-4:48 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 101 LP.
-4:48 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #2: erfolgreich.
-4:48 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 82 Schaden.
-4:48 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 50 Schaden.
-4:48 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 72 Schaden.
-4:48 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 66 Schaden.
-4:48 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 69 Schaden.
-4:48 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 108 Schaden.
-4:48 Horras-Attentäter #1 nähert sich Caera.
-4:54 Caera [Diamant-Bogen] greift Horras-Späher #2 an: weicht aus.
-4:54 Horras-Attentäter #1 nähert sich Caera.
-4:56 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 46 Schaden.
-4:56 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 95 Schaden.
-4:56 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: weicht aus.
-4:56 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 70 Schaden.
-5:00 San zaubert [Gruppen-Heilung III] auf San: heilt 121 LP.
-5:00 San zaubert [Gruppen-Heilung III] auf Caera: heilt 116 LP.
-5:00 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 94 LP.
-5:00 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 91 LP.
-5:00 Monochrom zaubert [Elementargeist] auf Horras-Attentäter #1: erfolgreich.
-5:00 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 87 Schaden.
-5:00 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 118 Schaden.
-5:00 Horras-Attentäter #1 nähert sich Caera.
-5:04 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: weicht aus.
-5:04 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 98 Schaden.
-5:04 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 78 Schaden.
-5:04 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 110 Schaden.
-5:06 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 88 Schaden.
-5:06 Horras-Attentäter #1 nähert sich Caera.
+4:48 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 17 Schaden.
+4:48 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verfehlt.
+4:48 Emila Kharuso zaubert [Im Fluss II] auf Irodin: erfolgreich.
+4:48 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 7 Schaden.
+4:48 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 22 Schaden.
+4:48 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:48 Vampir #1 [Biss] greift Grumpel an: verursacht 36 Schaden.
+4:48 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+4:51 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+4:52 Lyra Kharuso zaubert [Regeneration I] auf Angrosch: verfehlt.
+4:53 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+4:54 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verfehlt.
+4:54 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+4:54 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+4:56 Irodin zaubert [Kampfeswut I] auf Vampir #1: verfehlt.
+4:56 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 16 LP.
+4:56 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+4:56 [Regeneration I] wirkt auf Grumpel: heilt 24 LP.
+4:56 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+4:58 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+5:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampirfledermaus #1 an: verfehlt.
+5:00 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 15 Schaden.
+5:00 Vampirfledermaus #1 [Biss] greift Angrosch an: verfehlt.
+5:00 Vampir #1 [Biss] greift Grumpel an: verfehlt.
+5:00 Vampir #1 [Klauen] greift Grumpel an: verursacht 23 Schaden.
+5:01 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+5:03 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+5:04 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 22 Schaden.
+5:04 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 27 LP.
+5:04 Irodin [Feuerball II] greift Vampirfledermaus #1 an: verursacht 67 Schaden.
+5:06 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 16 LP.
+5:06 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+5:06 Vampirfledermaus #1 [Kratzer] greift Angrosch an: verursacht 10 Schaden.
+5:06 Vampirfledermaus #1 [Biss] greift Angrosch an: verursacht 7 Schaden.
+5:06 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+5:06 Vampir #1 [Klauen] greift Grumpel an: verursacht 27 Schaden.
+5:08 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+5:08 [Inferno I] wirkt auf Vampirfledermaus #1: verursacht 24 Schaden.
+5:08 Vampirfledermaus #1 sinkt kampfunfähig zu Boden.
+5:11 Grumpel [Rapier] greift Vampir #1 an: verursacht 1 Schaden.
 
 Runde 14
-5:12 San zaubert [Gruppen-Heilung III] auf San: heilt 147 LP (exzellenter Treffer).
-5:12 San zaubert [Gruppen-Heilung III] auf Caera: heilt 92 LP.
-5:12 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 102 LP.
-5:12 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 135 LP.
-5:12 Monochrom zaubert [Elementargeist] auf Horras-Späher #2: erfolgreich.
-5:12 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 218 Schaden (krit. Treffer).
-5:12 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 43 Schaden.
-5:12 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 91 Schaden.
-5:12 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 68 Schaden.
-5:12 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: weicht aus.
-5:12 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 109 Schaden.
-5:12 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 85 Schaden.
-5:12 Horras-Attentäter #1 nähert sich Caera.
-5:18 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 92 Schaden.
-5:18 Horras-Attentäter #1 nähert sich Caera.
-5:20 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 51 Schaden.
-5:20 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: weicht aus.
-5:20 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 164 Schaden (krit. Treffer).
-5:20 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 108 Schaden.
-5:24 San zaubert [Gruppen-Heilung III] auf San: heilt 97 LP.
-5:24 San zaubert [Gruppen-Heilung III] auf Caera: heilt 100 LP.
-5:24 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 104 LP.
-5:24 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 100 LP.
-5:24 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verfehlt.
-5:24 Caera [Diamant-Bogen] greift Horras-Späher #2 an: verursacht 112 Schaden.
-5:24 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 97 Schaden.
-5:24 Horras-Attentäter #1 nähert sich Caera.
-5:28 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: weicht aus.
-5:28 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 68 Schaden.
-5:28 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 99 Schaden.
-5:28 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 80 Schaden.
-5:30 Caera wechselt in den Nahkampf.
-5:30 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 90 Schaden.
-5:30 Horras-Attentäter #1 [Trickdolch] greift Caera an: verfehlt.
+5:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 14 Schaden.
+5:12 Lyra Kharuso zaubert [Heilung I] auf Grumpel: misslingt.
+5:12 Irodin zaubert [Inferno I] auf Vampir #1: erfolgreich.
+5:12 [Inferno I] wirkt auf Vampir #1: verursacht 22 Schaden.
+5:12 Vampir #1 [Biss] greift Grumpel an: verursacht 43 Schaden.
+5:12 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+5:13 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+5:16 Emila Kharuso zaubert [Im Fluss II] auf Grumpel: verfehlt.
+5:16 Grumpel [Rapier] greift Vampir #1 an: weicht aus.
+5:18 Vampir #1 [Klauen] greift Grumpel an: verursacht 15 Schaden.
+5:18 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+5:20 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+5:20 Lyra Kharuso zaubert [Regeneration I] auf Angrosch: erfolgreich.
+5:20 [Regeneration I] wirkt auf Angrosch: heilt 21 LP.
+5:20 [Regeneration I] wirkt auf Grumpel: heilt 22 LP.
+5:21 Grumpel [Rapier] greift Vampir #1 an: verursacht 1 Schaden.
+5:23 Angrosch [Dolch] greift Vampir #1 an: verursacht 10 Schaden (krit. Treffer).
+5:24 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: weicht aus.
+5:24 Irodin [Feuerball II] greift Vampir #1 an: verfehlt.
+5:24 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 31 LP (exzellenter Treffer).
+5:24 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+5:24 Vampir #1 [Biss] greift Grumpel an: verfehlt.
+5:24 Vampir #1 [Klauen] greift Grumpel an: verursacht 16 Schaden.
+5:26 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+5:28 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+5:30 Vampir #1 [Klauen] greift Grumpel an: verursacht 23 Schaden.
+5:31 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (4 Schaden pariert).
+5:32 Lyra Kharuso zaubert [Heilung I] auf Grumpel: misslingt.
+5:32 Irodin [Feuerball II] greift Vampir #1 an: verursacht 49 Schaden.
+5:33 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+5:34 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 28 LP (exzellenter Treffer).
+5:34 Emila Kharuso zaubert [Linderung I] auf Grumpel: heilt 19 LP.
 
 Runde 15
-5:36 San zaubert [Gruppen-Heilung III] auf San: heilt 186 LP (exzellenter Treffer).
-5:36 San zaubert [Gruppen-Heilung III] auf Caera: heilt 109 LP.
-5:36 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 105 LP.
-5:36 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 116 LP.
-5:36 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verfehlt.
-5:36 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 43 Schaden.
-5:36 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 97 Schaden.
-5:36 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 89 Schaden.
-5:36 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 82 Schaden.
-5:36 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 68 Schaden.
-5:36 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 68 Schaden.
-5:38 Horras-Attentäter #1 [Streitkolben] greift Caera an: weicht aus.
-5:38 Horras-Attentäter #1 [Trickdolch] greift Caera an: weicht aus.
-5:44 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 99 Schaden (krit. Treffer).
-5:44 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 97 Schaden.
-5:44 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 83 Schaden.
-5:44 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 94 Schaden.
-5:46 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 52 Schaden.
-5:46 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 38 Schaden (krit. Treffer) (102 Schaden geblockt).
-5:48 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 99 LP.
-5:48 San zaubert [Gruppen-Heilung III] auf San: heilt 132 LP.
-5:48 San zaubert [Gruppen-Heilung III] auf Caera: heilt 116 LP.
-5:48 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 170 LP (exzellenter Treffer).
-5:48 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 315 Schaden (krit. Treffer).
-5:48 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 216 Schaden (krit. Treffer).
-5:52 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 57 Schaden.
-5:52 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 101 Schaden.
-5:52 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 68 Schaden.
-5:52 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 204 Schaden (krit. Treffer).
-5:54 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 9 Schaden.
-5:54 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 162 Schaden (krit. Treffer).
-5:54 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 203 Schaden (krit. Treffer).
+5:36 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+5:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 17 Schaden.
+5:36 Grumpel [Rapier] greift Vampir #1 an: kein Schaden.
+5:36 [Inferno I] wirkt auf Vampir #1: verursacht 22 Schaden.
+5:36 Vampir #1 [Biss] greift Grumpel an: verursacht 62 Schaden.
+5:36 Vampir #1 [Klauen] greift Grumpel an: verfehlt.
+5:38 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+5:40 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 26 LP.
+5:40 Irodin [Feuerball II] greift Vampir #1 an: verursacht 43 Schaden.
+5:41 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+5:42 Vampir #1 [Klauen] greift Grumpel an: verursacht 23 Schaden.
+5:43 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+5:44 Emila Kharuso zaubert [Im Fluss II] auf Schabra: erfolgreich.
+5:44 [Regeneration I] wirkt auf Grumpel: heilt 23 LP.
+5:44 [Regeneration I] wirkt auf Angrosch: heilt 24 LP.
+5:46 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+5:48 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+5:48 Irodin zaubert [Kampfrausch I] auf Lyra Kharuso: erfolgreich.
+5:48 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+5:48 Lyra Kharuso zaubert [Heilung I] auf Grumpel: heilt 44 LP (exzellenter Treffer).
+5:48 Vampir #1 [Biss] greift Grumpel an: verursacht 39 Schaden.
+5:48 Vampir #1 [Klauen] greift Grumpel an: verursacht 24 Schaden.
+5:51 Grumpel [Rapier] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+5:52 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 26 Schaden.
+5:52 Emila Kharuso zaubert [Linderung I] auf Grumpel: misslingt.
+5:52 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 21 LP.
+5:53 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+5:54 Vampir #1 [Klauen] greift Grumpel an: verursacht 27 Schaden.
+5:56 Irodin [Feuerball II] greift Vampir #1 an: verursacht 68 Schaden.
+5:56 Lyra Kharuso zaubert [Heilung I] auf Grumpel: misslingt.
+5:56 Grumpel [Rapier] greift Vampir #1 an: verfehlt.
+5:58 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
 
 Runde 16
-6:00 San zaubert [Gruppen-Heilung III] auf Caera: heilt 101 LP.
-6:00 San zaubert [Gruppen-Heilung III] auf San: heilt 106 LP.
-6:00 San zaubert [Gruppen-Heilung III] auf Klaehan: heilt 90 LP.
-6:00 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 130 LP.
-6:00 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 150 Schaden.
-6:00 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 39 Schaden.
-6:00 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 239 Schaden (krit. Treffer).
-6:00 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 84 Schaden.
-6:00 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 184 Schaden (krit. Treffer).
-6:00 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 156 Schaden (krit. Treffer).
-6:00 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-6:00 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verfehlt.
-6:02 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 84 Schaden.
-6:02 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 3 Schaden (53 Schaden geblockt).
-6:06 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 7 Schaden.
-6:08 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 118 Schaden (krit. Treffer).
-6:08 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verfehlt.
-6:08 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 72 Schaden.
-6:08 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-6:10 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 70 Schaden.
-6:10 Horras-Attentäter #1 [Trickdolch] greift Caera an: weicht aus.
-6:12 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 214 Schaden (krit. Treffer).
-6:12 San zaubert [Granithaut] auf San: erfolgreich.
-6:12 San zaubert [Granithaut] auf Caera: verfehlt.
-6:12 San zaubert [Granithaut] auf Klaehan: verfehlt.
-6:12 San zaubert [Granithaut] auf Monochrom: erfolgreich.
-6:12 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 347 Schaden (krit. Treffer).
-6:12 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 7 Schaden.
-6:16 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 98 Schaden.
-6:16 Horras-Attentäter #2 [Trickdolch] greift Klaehan an: verursacht 106 Schaden.
-6:16 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 80 Schaden.
-6:16 Klaehan [Prunkschwert] greift Horras-Attentäter #2 an: verursacht 51 Schaden.
-6:18 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 17 Schaden (60 Schaden geblockt).
-6:18 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 13 Schaden (55 Schaden geblockt).
-6:18 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 5 Schaden.
+6:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+6:00 [Inferno I] wirkt auf Vampir #1: verursacht 17 Schaden.
+6:00 Vampir #1 [Biss] greift Grumpel an: verursacht 42 Schaden.
+6:00 Grumpel sinkt kampfunfähig zu Boden.
+6:02 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+6:03 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:04 Irodin zaubert [Kampfeswut I] auf Vampir #1: erfolgreich.
+6:04 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 33 LP (exzellenter Treffer).
+6:06 Vampir #1 nähert sich Emila Kharuso.
+6:08 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 28 Schaden.
+6:08 [Regeneration I] wirkt auf Angrosch: heilt 19 LP.
+6:08 Angrosch [Dolch] greift Vampir #1 an: weicht aus.
+6:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 7 Schaden.
+6:12 Emila Kharuso zaubert [Im Fluss II] auf Lyra Kharuso: verfehlt.
+6:12 Irodin [Feuerball II] greift Vampir #1 an: verfehlt.
+6:12 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 27 LP.
+6:12 Vampir #1 [Biss] greift Angrosch an: weicht aus.
+6:12 Vampir #1 [Klauen] greift Angrosch an: verursacht 16 Schaden.
+6:13 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:18 Vampir #1 [Klauen] greift Angrosch an: verursacht 14 Schaden.
+6:18 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:20 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 29 LP.
+6:20 Irodin [Feuerball II] greift Vampir #1 an: verursacht 132 Schaden (krit. Treffer).
+6:20 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 29 LP.
+6:23 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
 
 Runde 17
-6:24 San zaubert [Granithaut] auf Caera: erfolgreich.
-6:24 San zaubert [Granithaut] auf San: erfolgreich.
-6:24 San zaubert [Granithaut] auf Klaehan: erfolgreich.
-6:24 San zaubert [Granithaut] auf Monochrom: verfehlt.
-6:24 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 125 Schaden.
-6:24 [Elementargeist] wirkt auf Horras-Attentäter #2: verursacht 60 Schaden.
-6:24 Horras-Attentäter #2 [Streitkolben] greift Klaehan an: verursacht 101 Schaden.
-6:24 Klaehan sinkt kampfunfähig zu Boden.
-6:24 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 105 Schaden.
-6:24 Horras-Späher #2 [Horrasbogen] greift San an: weicht aus.
-6:24 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 5 Schaden.
-6:26 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 89 Schaden.
-6:26 Horras-Attentäter #1 [Trickdolch] greift Caera an: verfehlt.
-6:30 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 10 Schaden.
-6:32 Horras-Attentäter #2 nähert sich Monochrom.
-6:32 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 163 Schaden (krit. Treffer).
-6:34 Horras-Attentäter #1 [Streitkolben] greift Caera an: verfehlt.
-6:34 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 84 Schaden.
-6:36 San zaubert [Gruppen-Heilung III] auf San: heilt 111 LP.
-6:36 San zaubert [Gruppen-Heilung III] auf Caera: heilt 127 LP.
-6:36 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 184 LP (exzellenter Treffer).
-6:36 Monochrom [Sphärenschwert] greift Horras-Späher #2 an: verursacht 103 Schaden.
-6:36 Caera [Krummsäbel] greift Horras-Attentäter #1 an: weicht aus.
-6:36 [Elementargeist] wirkt auf Horras-Attentäter #1: verursacht 160 Schaden (krit. Treffer).
-6:38 Horras-Attentäter #2 nähert sich Monochrom.
-6:40 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 169 Schaden (krit. Treffer).
-6:42 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 31 Schaden (krit. Treffer).
-6:42 Horras-Attentäter #1 [Streitkolben] greift Caera an: weicht aus.
-6:42 Horras-Attentäter #1 [Trickdolch] greift Caera an: weicht aus.
-6:44 Horras-Attentäter #2 nähert sich Monochrom.
+6:24 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 27 Schaden.
+6:24 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 15 Schaden.
+6:24 [Inferno I] wirkt auf Vampir #1: verursacht 22 Schaden.
+6:24 Vampir #1 [Biss] greift Angrosch an: verursacht 52 Schaden.
+6:24 Vampir #1 [Klauen] greift Angrosch an: verursacht 48 Schaden (krit. Treffer).
+6:28 Irodin zaubert [Kampfrausch I] auf Angrosch: erfolgreich.
+6:28 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 21 LP.
+6:28 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:30 Vampir #1 [Klauen] greift Angrosch an: verfehlt.
+6:30 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 37 LP (exzellenter Treffer).
+6:32 [Regeneration I] wirkt auf Angrosch: heilt 16 LP.
+6:33 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 14 Schaden.
+6:36 Irodin [Feuerball II] greift Vampir #1 an: verursacht 48 Schaden.
+6:36 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
+6:36 Vampir #1 [Biss] greift Angrosch an: verursacht 55 Schaden.
+6:36 Vampir #1 [Klauen] greift Angrosch an: verursacht 26 Schaden.
+6:38 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:40 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 26 Schaden.
+6:40 Emila Kharuso zaubert [Im Fluss II] auf Angrosch: erfolgreich.
+6:42 Vampir #1 [Klauen] greift Angrosch an: verfehlt.
+6:43 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:44 Irodin [Feuerball II] greift Vampir #1 an: verursacht 51 Schaden.
+6:44 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
 
 Runde 18
-6:48 San zaubert [Gruppen-Heilung III] auf San: heilt 116 LP.
-6:48 San zaubert [Gruppen-Heilung III] auf Caera: heilt 116 LP.
-6:48 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 153 LP (exzellenter Treffer).
-6:48 Monochrom [Sphärenschwert] greift Horras-Attentäter #1 an: verursacht 99 Schaden.
-6:48 [Elementargeist] wirkt auf Horras-Späher #2: verursacht 84 Schaden.
-6:48 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 93 Schaden.
-6:48 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 11 Schaden.
-6:50 Horras-Attentäter #1 [Streitkolben] greift Caera an: weicht aus.
-6:50 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 4 Schaden (55 Schaden geblockt).
-6:50 Horras-Attentäter #2 nähert sich Monochrom.
-6:54 Caera [Krummsäbel] greift Horras-Attentäter #1 an: weicht aus.
-6:56 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 77 Schaden.
-6:56 Horras-Attentäter #2 [Streitkolben] greift Monochrom an: verursacht 109 Schaden.
-6:56 Horras-Attentäter #2 [Trickdolch] greift Monochrom an: verursacht 116 Schaden.
-6:58 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 76 Schaden.
-6:58 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 10 Schaden (63 Schaden geblockt).
-7:00 San zaubert [Gruppen-Heilung III] auf San: heilt 98 LP.
-7:00 San zaubert [Gruppen-Heilung III] auf Caera: heilt 170 LP (exzellenter Treffer).
-7:00 San zaubert [Gruppen-Heilung III] auf Monochrom: heilt 113 LP.
-7:00 Monochrom wechselt in den Nahkampf.
-7:00 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 9 Schaden.
-7:04 Horras-Späher #2 [Horrasbogen] greift San an: verursacht 72 Schaden.
-7:04 Horras-Attentäter #2 [Streitkolben] greift Monochrom an: verursacht 112 Schaden.
-7:04 Horras-Attentäter #2 [Trickdolch] greift Monochrom an: verursacht 237 Schaden (krit. Treffer).
-7:06 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 5 Schaden.
-7:06 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 72 Schaden.
-7:06 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 57 Schaden.
-7:11 San sinkt kampfunfähig zu Boden.
+6:48 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+6:48 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 20 LP.
+6:48 [Inferno I] wirkt auf Vampir #1: verursacht 15 Schaden.
+6:48 Vampir #1 [Biss] greift Angrosch an: verursacht 48 Schaden.
+6:48 Vampir #1 [Klauen] greift Angrosch an: verursacht 22 Schaden.
+6:48 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+6:52 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 25 LP.
+6:52 Irodin [Feuerball II] greift Vampir #1 an: verursacht 73 Schaden.
+6:53 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+6:54 Vampir #1 [Klauen] greift Angrosch an: verursacht 66 Schaden (krit. Treffer).
+6:56 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 18 Schaden.
+6:56 [Regeneration I] wirkt auf Angrosch: heilt 16 LP.
+6:58 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 27 LP.
+6:58 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+7:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 7 Schaden.
+7:00 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
+7:00 Irodin [Feuerball II] greift Vampir #1 an: verfehlt.
+7:00 Vampir #1 [Biss] greift Angrosch an: weicht aus.
+7:00 Vampir #1 [Klauen] greift Angrosch an: verursacht 10 Schaden.
+7:03 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+7:06 Vampir #1 [Klauen] greift Angrosch an: verursacht 9 Schaden.
+7:08 Emila Kharuso zaubert [Im Fluss II] auf Relokas: erfolgreich.
+7:08 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
+7:08 Irodin [Feuerball II] greift Vampir #1 an: verursacht 55 Schaden.
+7:08 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
 
 Runde 19
-7:12 Horras-Späher #2 [Horrasbogen] greift Caera an: verfehlt.
-7:12 Horras-Attentäter #2 [Streitkolben] greift Monochrom an: verursacht 85 Schaden.
-7:12 Horras-Attentäter #2 [Trickdolch] greift Monochrom an: verursacht 34 Schaden (59 Schaden geblockt).
-7:12 Caera [Krummsäbel] greift Horras-Attentäter #1 an: weicht aus.
-7:14 Horras-Attentäter #1 [Streitkolben] greift Caera an: weicht aus.
-7:14 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 88 Schaden.
-7:18 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 7 Schaden.
-7:20 Horras-Späher #2 [Horrasbogen] greift Caera an: verursacht 33 Schaden (krit. Treffer) (94 Schaden geblockt).
-7:20 Horras-Attentäter #2 [Streitkolben] greift Monochrom an: verursacht 120 Schaden.
-7:20 Horras-Attentäter #2 [Trickdolch] greift Monochrom an: verursacht 119 Schaden.
-7:22 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 12 Schaden (66 Schaden geblockt).
-7:22 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 89 Schaden.
-7:24 Monochrom [Kristall-Schwert] greift Horras-Attentäter #2 an: kein Schaden.
-7:24 Caera [Krummsäbel] greift Horras-Attentäter #1 an: kein Schaden.
-7:28 Horras-Späher #2 [Horrasbogen] greift Caera an: verursacht 200 Schaden (krit. Treffer).
-7:28 Horras-Attentäter #2 [Streitkolben] greift Monochrom an: verursacht 115 Schaden.
-7:28 Horras-Attentäter #2 [Trickdolch] greift Monochrom an: verursacht 93 Schaden.
-7:28 Monochrom sinkt kampfunfähig zu Boden.
-7:30 Horras-Attentäter #1 [Streitkolben] greift Caera an: weicht aus.
-7:30 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 5 Schaden (56 Schaden geblockt).
-7:30 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 9 Schaden.
+7:12 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+7:12 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 16 Schaden.
+7:12 Vampir #1 [Biss] greift Angrosch an: verfehlt.
+7:12 Vampir #1 [Klauen] greift Angrosch an: verursacht 32 Schaden.
+7:13 Angrosch [Dolch] greift Vampir #1 an: verursacht 10 Schaden (krit. Treffer).
+7:16 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+7:16 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
+7:16 Irodin zaubert [Inferno I] auf Vampir #1: verfehlt.
+7:18 Vampir #1 [Klauen] greift Angrosch an: verfehlt.
+7:18 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+7:23 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+7:24 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 14 Schaden.
+7:24 Lyra Kharuso zaubert [Regeneration I] auf Angrosch: erfolgreich.
+7:24 [Regeneration I] wirkt auf Angrosch: heilt 18 LP.
+7:24 Vampir #1 [Biss] greift Angrosch an: verfehlt.
+7:24 Vampir #1 [Klauen] greift Angrosch an: weicht aus.
+7:26 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 23 LP.
+7:28 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 22 Schaden.
+7:28 Irodin [Feuerball II] greift Vampir #1 an: verursacht 71 Schaden.
+7:28 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+7:30 Vampir #1 [Klauen] greift Angrosch an: verfehlt.
+7:33 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
 
 Runde 20
-7:36 Horras-Späher #2 [Horrasbogen] greift Caera an: weicht aus.
-7:36 Horras-Attentäter #2 nähert sich Caera.
-7:36 Caera [Krummsäbel] greift Horras-Attentäter #1 an: kein Schaden.
-7:38 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 63 Schaden.
-7:38 Horras-Attentäter #1 [Trickdolch] greift Caera an: weicht aus.
-7:42 Horras-Attentäter #2 nähert sich Caera.
-7:42 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 7 Schaden.
-7:44 Horras-Späher #2 [Horrasbogen] greift Caera an: verursacht 7 Schaden (59 Schaden geblockt).
-7:46 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 150 Schaden (krit. Treffer).
-7:46 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 74 Schaden.
-7:48 Horras-Attentäter #2 [Streitkolben] greift Caera an: verursacht 58 Schaden.
-7:48 Horras-Attentäter #2 [Trickdolch] greift Caera an: weicht aus.
-7:48 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 3 Schaden.
-7:52 Horras-Späher #2 [Horrasbogen] greift Caera an: verursacht 77 Schaden.
-7:54 Horras-Attentäter #1 [Streitkolben] greift Caera an: weicht aus.
-7:54 Horras-Attentäter #1 [Trickdolch] greift Caera an: verursacht 16 Schaden (71 Schaden geblockt).
-7:54 Caera [Krummsäbel] greift Horras-Attentäter #1 an: kein Schaden.
-7:56 Horras-Attentäter #2 [Streitkolben] greift Caera an: weicht aus.
-7:56 Horras-Attentäter #2 [Trickdolch] greift Caera an: verursacht 16 Schaden (72 Schaden geblockt).
+7:36 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+7:36 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 27 LP.
+7:36 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+7:36 Irodin [Feuerball II] greift Vampir #1 an: verursacht 74 Schaden.
+7:36 Vampir #1 [Biss] greift Angrosch an: verfehlt.
+7:36 Vampir #1 [Klauen] greift Angrosch an: verfehlt.
+7:38 Angrosch [Dolch] greift Vampir #1 an: verfehlt.
+7:42 Vampir #1 [Klauen] greift Angrosch an: verursacht 27 Schaden.
+7:43 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+7:44 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
+7:44 Irodin zaubert [Inferno I] auf Vampir #1: erfolgreich.
+7:44 [Inferno I] wirkt auf Vampir #1: verursacht 22 Schaden.
+7:44 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 24 Schaden.
+7:46 Emila Kharuso zaubert [Im Fluss II] auf Schabra: verfehlt.
+7:48 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 19 Schaden.
+7:48 Vampir #1 [Biss] greift Angrosch an: verursacht 46 Schaden.
+7:48 Vampir #1 [Klauen] greift Angrosch an: weicht aus.
+7:48 [Regeneration I] wirkt auf Angrosch: heilt 17 LP.
+7:48 Angrosch [Dolch] greift Vampir #1 an: kein Schaden (3 Schaden pariert).
+7:52 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 26 LP.
+7:53 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+7:54 Emila Kharuso zaubert [Linderung I] auf Angrosch: misslingt.
+7:54 Vampir #1 [Klauen] greift Angrosch an: verursacht 24 Schaden.
+7:56 Irodin zaubert [Kampfrausch I] auf Emila Kharuso: verfehlt.
+7:58 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
 
 Runde 21
-8:00 Horras-Späher #2 [Horrasbogen] greift Caera an: verursacht 83 Schaden.
-8:00 Caera [Krummsäbel] greift Horras-Attentäter #1 an: verursacht 9 Schaden.
-8:02 Horras-Attentäter #1 [Streitkolben] greift Caera an: verursacht 144 Schaden (krit. Treffer).
-8:02 Horras-Attentäter #1 [Trickdolch] greift Caera an: weicht aus.
-8:04 Horras-Attentäter #2 [Streitkolben] greift Caera an: weicht aus.
-8:04 Horras-Attentäter #2 [Trickdolch] greift Caera an: weicht aus.
-8:06 Caera [Krummsäbel] greift Horras-Attentäter #1 an: weicht aus.
-8:08 Horras-Späher #2 [Horrasbogen] greift Caera an: verursacht 150 Schaden (krit. Treffer).
-8:08 Caera sinkt kampfunfähig zu Boden.
+8:00 Schabra [Hornarmbrust (Standard Bolzen)] greift Vampir #1 an: verfehlt.
+8:00 Relokas [Repetierarmbrust (Standard Bolzen)] greift Vampir #1 an: verursacht 9 Schaden.
+8:00 Lyra Kharuso zaubert [Heilung I] auf Angrosch: misslingt.
+8:00 Vampir #1 [Biss] greift Angrosch an: verursacht 23 Schaden.
+8:00 Vampir #1 [Klauen] greift Angrosch an: verfehlt.
+8:03 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+8:04 Emila Kharuso zaubert [Linderung I] auf Angrosch: heilt 23 LP.
+8:04 Irodin zaubert [Kampfeswut I] auf Vampir #1: erfolgreich.
+8:06 Vampir #1 [Klauen] greift Angrosch an: verursacht 11 Schaden.
+8:08 Lyra Kharuso zaubert [Heilung I] auf Angrosch: heilt 33 LP (exzellenter Treffer).
+8:08 Angrosch [Dolch] greift Vampir #1 an: kein Schaden.
+8:08 [Inferno I] wirkt auf Vampir #1: verursacht 13 Schaden.
+8:08 Vampir #1 sinkt kampfunfähig zu Boden.
 
 Hilfe & Informationen
 Die Lebenspunkte (LP) der Kampfbeteiligten werden immer erst zum Rundenende aktualisiert.
