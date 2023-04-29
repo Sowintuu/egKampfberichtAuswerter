@@ -39,10 +39,9 @@ function consolidate_text(text) {
 // Get info from the end of the fight.
 function get_char_info(text) {
     // Init some vars.
-    let cur_team;
-    let fighters = [];
+    let cur_team = null;
+    let fighters = {};
     let line;
-    let cur_fighter;
 
     // Split text by lines.
     let lines = text.split('\n');
@@ -65,12 +64,17 @@ function get_char_info(text) {
             }
 
             let line_split = line.replace('[?] ', '').split('\t')
-            fighters.push({
+            fighters[line_split[0]] = {
                 name: line_split[0],
                 team: cur_team,
                 status: line_split[1],
                 health_rel_end: parseFloat(line_split[2].substring(0, line_split[2].length-1)) / 100,
-            });
+                dmg_done: 0,
+                dmg_received: 0,
+                heal_done: 0,
+                heal_received: 0,
+                actions: {},
+            };
         }
     }
 
@@ -79,6 +83,7 @@ function get_char_info(text) {
 
 function analyse_main_report(rounds, fighters) {
     // Init variables.
+    let fighter_names = Object.keys(fighters);
     let time;
     let main;
     let main_reduced;
@@ -93,6 +98,7 @@ function analyse_main_report(rounds, fighters) {
     // Init regex patterns.
     let pattern_tool = new RegExp('(?<=\\[).+(?=\\])')
     let pattern_space2p = new RegExp(' {2,}')
+    let pattern_damage = new RegExp('\d+ Schaden')
 
     // Loop over rounds.
     for (let r = 0; r < rounds.length; r++) {
@@ -106,22 +112,28 @@ function analyse_main_report(rounds, fighters) {
             main = lines[l].substring(lines[l].indexOf(' ')+1, lines[l].lastIndexOf(':'));
             result = lines[l].substring(lines[l].lastIndexOf(':')+2, lines[l].lastIndexOf('.'))
 
-
-
-            // Loop over fighter names to find out actor and aim.
+            // Get fighter names.
             actor = null;
             aim = null;
-            for (let fi = 0; fi < fighters.length; fi++) {
+
+            // If the line starts with '[', there is no actor.
+            if (main.startsWith('[')) {
+                actor = 'none'
+            }
+
+            // Loop over fighter names to find out actor and aim.
+            for (let fi = 0; fi < fighter_names.length; fi++) {
                 // Check if the current fighter is the actor.
-                if (main.startsWith(fighters[fi].name)) {
-                    actor = fighters[fi];
-                    // Check if actor == aime
+                if (main.startsWith(fighter_names[fi])) {
+                    actor = fighters[fighter_names[fi]];
+                    // Check if actor == aim.
                     if (main.substring(actor.name.length, main.length).includes(actor.name)) {
-                        aim = fighters[fi];
+                        aim = fighters[fighter_names[fi]];
                     }
-                } else if (main.includes(fighters[fi].name)) {
-                    aim = fighters[fi];
+                } else if (main.includes(fighter_names[fi])) {
+                    aim = fighters[fighter_names[fi]];
                 }
+                // Break, if actor and aim assigned.
                 if (actor != null && aim != null) {
                     break;
                 }
@@ -130,7 +142,7 @@ function analyse_main_report(rounds, fighters) {
             // Check for tool.
             tool_match = pattern_tool.exec(main);
             if (tool_match != null) {
-                tool = tool_match[0]
+                tool = tool_match[0];
             }
 
             // Remove fighters and tool names to get action.
@@ -141,11 +153,19 @@ function analyse_main_report(rounds, fighters) {
                 main_reduced = main_reduced.replace(aim.name, '');
             }
             if (tool != null) {
-                main_reduced = main_reduced.replace('[' + tool + ']', '')
+                main_reduced = main_reduced.replace('[' + tool + ']', '');
             }
-            action = main_reduced.trim()
-            action = action.replace(pattern_space2p, ' ')
+            action = main_reduced.trim();
+            action = action.replace(pattern_space2p, ' ');
 
+            // Process result and action.
+
+
+
+            dmg_match = pattern_damage.exec(result);
+            if (dmg_match != null) {
+
+            }
             let x;
 
         }
